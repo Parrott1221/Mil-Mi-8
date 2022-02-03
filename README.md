@@ -7,6 +7,7 @@
 - Updated FDM/aircraft/systems/liveries by RenanMsV, Kaito
 - Using some files from [Davepack](https://github.com/FGMEMBERS-NONGPL/DavePack) 
 - Music from the radio by [theonewhoCheekiBreeki](https://www.youtube.com/channel/UCgtg2afk_O_YE6zL1meXtJQ)
+- Livery by Parrott
 
 - FDM by Anirudh Prabhu Oct-2020.
 
